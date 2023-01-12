@@ -1,5 +1,7 @@
 // import image from './images/lazy.png';
 
+import fn from './components/mouseeffects.js';
+
 // const createImage = (src) => new Promise((res, rej) => {
 //   const img = new Image();
 //   img.onload = () => res(img);
@@ -16,3 +18,5 @@
 // }
 
 // render();
+
+fn();

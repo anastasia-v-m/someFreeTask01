@@ -22,3 +22,7 @@ img {
   flex-wrap: wrap;
   justify-content: space-around;
 }
+
+.pct:hover {
+  filter: blur(10px);
+}
